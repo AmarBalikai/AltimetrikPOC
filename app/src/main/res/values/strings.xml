@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AltimetrikPOC</string>
+    <string name="enter_artist_name">Enter Artist Name</string>
+    <string name="enter_track_name">Enter Track Name</string>
+    <string name="enter_collection_name">Enter Collection Name</string>
+    <string name="enter_collection_price">Enter Collection Price</string>
+    <string name="enter_release_date">Enter Release Date</string>
+    <string name="search">search</string>
+    <string name="select_release_date">Select Release Date</string>
+    <string name="artistname">Artistname</string>
+    <string name="trackname">Trackname</string>
+    <string name="collectionname">Collectionname</string>
+</resources>
